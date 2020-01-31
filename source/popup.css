@@ -1,0 +1,61 @@
+body {
+    min-width: 300px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.state-container {
+    padding: 10px 10px 10px 20px;
+    background: rgb(210, 255, 230); 
+    display: flex;
+}
+
+#state-icon {
+    
+    max-width: 20px;
+    flex: 50%;
+    
+    width: auto;
+    height: auto;
+    padding: 0px 15px 0px 10px;
+    
+}
+#state-info {
+    flex: 50%;
+    font-size: 15px;
+    color: rgb(0,100,65);
+    font-weight: 300;
+    
+
+}
+
+.btnwrapper{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px 10px 0px;
+}
+
+#plugin-statebtn {
+    
+    background-color: rgb(21, 200, 150); 
+    border: none;
+    color: white;
+    padding: 15px 19px;
+
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 20px;
+    
+}
+
+
+#logo-wide {
+    
+    margin-left: 10px;
+    padding: 5px 10px 10px 10px;
+    max-width: 250px;
+    
+}
+
