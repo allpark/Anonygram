@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 This software requires the following software
 
 ```
-Google Chrome version 79.0.3945.123	
+Google Chrome (version 79.0.3945.123)	
 ```
 
 ### Installing
