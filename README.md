@@ -25,7 +25,7 @@ To install the extension, follow the steps below:
 
 ## Built With
 
-* [jquery](https://jquery.com/) - feature-rich Javascript library for HMTL DOM manipulation and more 
+* [jquery](https://jquery.com/) - feature-rich JavaSscript library for HMTL DOM manipulation and more 
 
 ## Authors
 
